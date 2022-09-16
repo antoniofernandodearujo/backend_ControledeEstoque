@@ -31,8 +31,8 @@ Na primeira tela do Insomnia vai aparecer **Dashboard** vazio, caso você nunca 
 dar o nome a ela como preferir, e vai entrar na pasta "", que contém todas as rotas utilizadas nesse projeto.
 
 <div display=flex flex-direction=row>
-  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img1_insomnia.png" width="400px" height="300px"/>
-  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img2_insomnia.png"width="400px" height="300px"/>
+  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img1_insomnia.png" width="400px" height="370px"/>
+  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img2_insomnia.png"width="400px" height="370px"/>
 </div>
 
 ### Passo 3:
