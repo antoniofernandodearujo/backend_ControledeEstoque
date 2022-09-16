@@ -21,17 +21,18 @@ um CRUD, utilizando um banco de dados não relacional, e também testando as rot
 
 ### Passo 1:
 Faça a conexão com Mongo, se tiver usando o MongoDB Compass, é a primeira aba quando a abre o aplicativo.
-imagem
+
 <div display=flex flex-direction=row>
-  <img src=""/>
+  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img1_mongo.png"/>
 </div>
+
 ### Passo 2:
 Na primeira tela do Insomnia vai aparecer **Dashboard** vazio, caso você nunca tenha usado, você criar uma nova coleção,
 dar o nome a ela como preferir, e vai entrar na pasta "", que contém todas as rotas utilizadas nesse projeto.
 
 <div display=flex flex-direction=row>
-  <img src=""/>
-  <img src=""/>
+  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img1_insomnia.png" width="500px" height="450px"/>
+  <img src="https://github.com/antoniofernandodearujo/backend_ControledeEstoque/blob/main/assets/img2_insomnia.png"width="500px" height="450px"/>
 </div>
 
 ### Passo 3:
