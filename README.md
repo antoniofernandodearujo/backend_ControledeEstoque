@@ -15,7 +15,7 @@ a CRUD, using a non-relational database, and also testing the routes in the API.
 
 ## 👨‍💻👩‍💻 How to run the project
 ### Requirements: 
-- NodeJS.
+- NodeJS (if you don't have it installed on your machine, officially install: https://nodejs.org/en/download)
 - Install MongoDB and MongoDB Compass (to have a better view of the bd).
 - Install the Insomnia (https://insomnia.rest/download) or Postman (https://www.postman.com/) 
 Visual application to be able to test the routes created from the API, using JSON in the body of the request
